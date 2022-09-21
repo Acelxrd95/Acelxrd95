@@ -46,7 +46,7 @@
 
 [![Twitter](./icons/twitter.png "twitter")](https://twitter.com/acelxrd)
 [![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/yehia-gouda-bb2955201/)
-[![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.com/acelxrd)
+[![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.org/user/140889)
 [![Github](./icons/github.png "Github")](https://github.com/Acelxrd95)
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/292026785674166283)
 [![Email](./icons/mail.png "Email")](mailto:yehia.gouda@disroot.org)
