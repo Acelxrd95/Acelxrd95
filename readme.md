@@ -1,6 +1,4 @@
-<!-- @format -->
-
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F76E&background=000000&center=true&vCenter=true&width=435&lines=H3ll0%2C+Fri3nd'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00F72B&background=000000&center=true&vCenter=true&width=1000&height=100&lines=H3ll0%2C+Fri3nd" alt="H3ll0, Fri3nd" />
 
 <h3 align='center'> root@github:~$ whoami </h3>
 
@@ -15,24 +13,16 @@
 <h4>My Try Hack Me Profile</h4>
 <a title="Try Hack Me Profile" href="https://tryhackme.com/p/Acelxrd">
  <img src="https://tryhackme-badges.s3.amazonaws.com/Acelxrd.png" alt="TryHackMe"></a>
-</div>
 
 ### Some of my intrests
-
--   👨‍💻 Hacking and CTFs
--   🎮 Video games
--   💻Programming
--   🎧 Listening to music
--   📖 Reading books
--   📺 Anime?
-
+👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime?
 ### Languages and Technologies
 
 ![Python](./icons/python.png "Python")
 ![git](./icons/git.png "git")
 ![C](./icons/c.png "C")
 ![C++](./icons/cpp.png "C++")
-![Kali Linux](./icons/KaliLinux.png "Kali Linux")
+![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![Autopsy](./icons/Autopsy.png "Autopsy")
 ![IDA](./icons/idapro.png "IDA")
@@ -40,29 +30,27 @@
 ![NASM](./icons/nasm.png "NASM")
 ![Javascript](./icons/javascript.png "Javascript")
 ![Golang](./icons/golang.png "Golang")
-![Pycharm](./icons/Pycharm.png "Pycharm")
+![Pycharm](./icons/pycharm.png "Pycharm")
 ![Rust](./icons/rust.png "Rust")
-![Java](./icons/Java.png "Java")
-![Docker](./icons/Docker.png "Docker")
+![Java](./icons/java.png "Java")
+![Docker](./icons/docker.png "Docker")
 ![mysql](./icons/mysql.png "mysql")
 ![Microsoft Office](./icons/office.png "Microsoft Office")
-![VScode](./icons/VScode.png "VScode")
+![VScode](./icons/vscode.png "VScode")
 ![PHP](./icons/php.png "PHP")
-
-###### I try to regularly participate in CTFs and post the writeups on my [blog]("https://blog.acelxrd.com").
 
 ### 📫 How to reach me
 
 [![pgp](https://img.shields.io/badge/pgp-0x8A5FEE03649B4E2A-313131?style=flat&labelColor=313131&color=313131)](https://github.com/acelxrd95.gpg)
-
 [![pgp](https://img.shields.io/badge/pgp-0x5836DA91F74FADFC-313131?style=flat&labelColor=313131&color=313131)](https://github.com/acelxrd95.gpg)
 
-[![Twitter](./icons/twitter.png "twitter")](https://twitter.com/Acelxrd)
-[![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/acelxrd/)
-[![Instagram](./icons/instagram.png "instagram")](https://www.instagram.com/acelxrd/)
-[![Facebook](./icons/facebook.png "facebook")](https://www.facebook.com/acelxrd/)
+[![Twitter](./icons/twitter.png "twitter")](https://twitter.com/acelxrd)
+[![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/yehia-gouda-bb2955201/)
 [![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.com/acelxrd)
-[![Hack The Box](./icons/hackthebox.png "Hack The Box")](https://app.hackthebox.com/profile/492470)
-[![Github](./icons/github.png "Github")](https://github.com/acelxrd)
+[![Github](./icons/github.png "Github")](https://github.com/Acelxrd95)
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/292026785674166283)
 [![Email](./icons/mail.png "Email")](mailto:yehia.gouda@disroot.org)
+
+download my resume from <a href="https://cloud.disroot.org/s/pratHaogdMErM2L/download/Resume.pdf"> here </a>
+</div>
+
